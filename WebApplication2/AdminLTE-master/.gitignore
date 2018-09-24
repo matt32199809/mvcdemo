@@ -6,7 +6,10 @@
 /nbproject/
 /nbproject/private/
 /node_modules/
+<<<<<<< HEAD
+=======
 /bower_components/
+>>>>>>> de8c9959c1d41d006c9532fd6369dca8a0f0c992
 ad.js
 TODO
 test.html
