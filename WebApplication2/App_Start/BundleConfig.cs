@@ -20,11 +20,24 @@ namespace WebApplication2
                         "~/Scripts/modernizr-*"));
 
             bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include(
-                      "~/Scripts/bootstrap.js"));
+                      "~/Scripts/bootstrap.js",
+                      "~/Scripts/respond.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
                       "~/Content/site.css"));
+
+            bundles.Add(new StyleBundle("~/login/css").Include(
+                     "~/AdminLTE-master/bower_components/bootstrap/dist/css/bootstrap.min.css",
+                     "~/AdminLTE-master/dist/css/AdminLTE.min.css",
+                     "~/plugins/iCheck/square/blue.css",
+                     "~/cloudflare/font-awesome.min.css",
+                     "~/cloudflare/ionicons.min.css"));
+
+            bundles.Add(new ScriptBundle("~/login/js").Include(
+                      "~/AdminLTE-master/bower_components/jquery/dist/jquery.min.js",
+                      "~/AdminLTE-master/bower_components/bootstrap/dist/js/bootstrap.min.js",
+                      "~/AdminLTE-master/plugins/iCheck/icheck.min.js"));
         }
     }
 }
