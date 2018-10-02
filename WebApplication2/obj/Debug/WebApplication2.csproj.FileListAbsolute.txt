@@ -238,11 +238,11 @@ C:\Users\mrlan\source\repos\WebApplication2\WebApplication2\bin\Microsoft.AI.Dep
 C:\Users\mrlan\source\repos\WebApplication2\WebApplication2\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\mrlan\source\repos\WebApplication2\WebApplication2\bin\Microsoft.AI.Web.xml
 C:\Users\mrlan\source\repos\WebApplication2\WebApplication2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\mrlan\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
 C:\Users\mrlan\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
 C:\Users\mrlan\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CopyComplete
 C:\Users\mrlan\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
 C:\Users\mrlan\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\mrlan\source\repos\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
 C:\Users\Matthew\source\repos\MvcDemo-master\WebApplication2\bin\ApplicationInsights.config
 C:\Users\Matthew\source\repos\MvcDemo-master\WebApplication2\bin\WebApplication2.dll.config
 C:\Users\Matthew\source\repos\MvcDemo-master\WebApplication2\bin\WebApplication2.dll
